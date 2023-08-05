@@ -5,6 +5,8 @@ https://github.com/satoshiokue/MEZZ8002/blob/main/MEZZ8002.pdf
 Gerber Data:  
 MEZZ8002.zip  
 
+LED x1  
+10k x1  
 0.1uF x1  
 
 ![MEZZ8002 PCB TOP](https://github.com/satoshiokue/MEZZ8002/blob/main/MEZZ8002top.jpg)  
